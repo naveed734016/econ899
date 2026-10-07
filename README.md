@@ -3,7 +3,7 @@
 This GitHub repo provides a template for ECON 899 students to create and share
 their replication packages.
 
-This package belongs to Brian.
+This package belongs to Naveed.
 
 ## Setup instructions
 
